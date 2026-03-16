@@ -52,7 +52,7 @@ Each occupation includes:
 
 - **Original author:** Andrej Karpathy
 - **Original URL:** https://karpathy.ai/jobs/ (may no longer be available)
-- **Wayback Machine snapshot:** https://web.archive.org/web/20260315050821/https://karpathy.ai/jobs/
+- **Wayback Machine snapshot:** https://web.archive.org/web/20260315050821/https://karpathy.ai/jobs
 - **Data source:** [Bureau of Labor Statistics Occupational Outlook Handbook](https://www.bls.gov/ooh/)
 - **Scoring model:** Gemini Flash
 
